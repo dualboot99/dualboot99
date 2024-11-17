@@ -4,18 +4,6 @@
 [![WebSite](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=showwcase&logoColor=white)](https://rmourato-dev.dynip.sapo.pt/)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigomdmourato@gmail.com)
 
-# Content
-
-[**1. About Me**](#about-me)
-
-[**2. Skills**](#-skills)
-
-[**3. Professional Experience**](#-professional-experience)
-
-[**4. Education and Qualifications**](#-education-and-qualifications)
-
-[**5. Certifications**](#️-certifications)
-
 # About Me
 
 I am a 24-year-old full stack software engineer who began my career at Motorola Solutions in 2021. I am dedicated, hardworking, and available, with a strong commitment to learning and professional development.
