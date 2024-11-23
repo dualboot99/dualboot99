@@ -96,3 +96,9 @@ Degree in Computer Engineering, having concluded with an average of 15 values. T
 - CCNA R&S: Scaling Networks - December 2019
 - CCNA R&S: Routing and Switching Essentials - September 2019
 - CCNA R&S: Introduction to Networks - May 2019
+
+<br>
+
+# 📈 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dualboot99&theme=transparent)
