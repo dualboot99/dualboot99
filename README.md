@@ -22,7 +22,7 @@ Since first engaging with programming languages in 2016, I have remained committ
 
 # 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,angular,react,ts,js,nodejs,python,java,spring,kotlin,terraform,docker,azure,redis,mongo,postgres,mysql,kafka,linux,windows&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,angular,react,vue,ts,js,nodejs,python,java,spring,kotlin,terraform,docker,azure,redis,mongo,postgres,mysql,kafka,linux,windows&perline=11)](https://skillicons.dev)
 
 <br>
 
