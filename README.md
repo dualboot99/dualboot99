@@ -6,7 +6,7 @@
 
 # About Me
 
-I am a 24-year-old full stack software engineer who began my career at Motorola Solutions in 2021. I am dedicated, hardworking, and available, with a strong commitment to learning and professional development.
+I am a 25-year-old full stack software engineer who began my career at Motorola Solutions in 2021. I am dedicated, hardworking, and available, with a strong commitment to learning and professional development.
 
 I am driven to continuously expand my knowledge and hone my skills to enhance my performance. I am continuously engaged in learning and developing new programming languages and technologies.
 
